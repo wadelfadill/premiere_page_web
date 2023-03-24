@@ -255,7 +255,7 @@ progress::-webkit-progress-value{
     background-repeat: no-repeat;
     background-size: cover;
 }
-@media screen and (max-width:1060px) and (min-width:768px) {
+@media screen and (max-width:900px) and (min-width:425px) {
     header{
         height: 50px;
         justify-content: flex-start;
@@ -292,7 +292,7 @@ progress::-webkit-progress-value{
         width: 95%;
     }
 }
-@media screen and (max-width:767px) {
+@media screen and (max-width:425px) {
     header{
         flex-direction: column;
         justify-content: space-between;
@@ -344,7 +344,7 @@ progress::-webkit-progress-value{
     }
 
 }
-@media screen and (max-width:620px) {
+@media screen and (max-width:415px) {
     header{
         font-size: 0.6em;
         word-spacing: 0.5px;
@@ -372,7 +372,7 @@ progress::-webkit-progress-value{
     }
     
 }
-@media screen and (max-width:480px){
+@media screen and (max-width:350px){
     header{
         font-size: 0.5em;
         word-spacing: 0.2px;
